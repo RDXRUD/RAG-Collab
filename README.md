@@ -4,6 +4,8 @@
 
 Video link: https://drive.google.com/drive/folders/1KrQSYboEEUBL54aVt9vl7tqq4shBOpNU?usp=drive_link
 
+Collab Link: https://colab.research.google.com/drive/1YpPgYGaV-jY1W3CBikUCSeKXDIiiGMlq?usp=sharing
+
 This project is a **Document Question Answering System** built using **LangChain**, **ChromaDB**, **PDF/Markdown loaders**, and **HuggingFace embeddings**. It allows users to **upload documents (PDFs or Markdown)**, extract their contents, create vector embeddings, and **ask questions** interactively using a chatbot interface powered by **Gradio**.
 
 ---
